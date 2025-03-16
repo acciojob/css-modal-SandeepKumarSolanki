@@ -1,8 +1,10 @@
 /*  your css code here. If applicable */
 /* Hide the modal by default */
 .modal {
+	
   display: none;  /* Hide the modal initially */
   position: fixed;
+  
   top: 0;
   left: 0;
   width: 100%;
