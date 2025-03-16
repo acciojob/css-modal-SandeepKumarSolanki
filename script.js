@@ -7,7 +7,7 @@ const closeModalBtns = document.querySelectorAll('.close-modal');
 
 // Function to open the modal
 openModalBtn.addEventListener('click', () => {
-  modal.style.display = 'flex';  // Show the modal by changing its display
+  modal.style.display = 'block';  // Show the modal by changing its display
 });
 
 // Function to close the modal
